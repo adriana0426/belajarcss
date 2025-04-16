@@ -11,9 +11,6 @@ h1 {
     padding-bottom: 100px;
     padding-left: 15px;
     padding-right: 15px;
-    
-  
-
 }
 
 p{
@@ -23,7 +20,6 @@ p{
     border-style: dashed;
     padding: 30px;
     line-height: 30px;
-
 }
 
 #oh{
@@ -35,3 +31,43 @@ p{
     background-color: transparent;
     border: none;
 }
+
+#kotaksatu{
+    width:50px;
+    height:50px;
+    background-color: red;
+    display: inline-block;
+}
+
+#kotakdua{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(238, 112, 133);
+    margin-top: 5px;
+    display: inline-block;
+}
+
+#lingkaran{
+    width:50px;
+    height: 50px;
+    background-color: rgb(222, 87, 87);
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#persegipanjang{
+    width: 80px;
+    height: 50px;
+    background-color: rgb(233, 156, 180);
+    display: inline-block;
+}
+
+#segitiga{
+    
+    border-bottom:solid 70px rgb(243, 11, 11) ;
+    border-left:solid 40px transparent ;
+    border-right:solid 40px transparent;
+    display: inline-block;
+}
+
+
